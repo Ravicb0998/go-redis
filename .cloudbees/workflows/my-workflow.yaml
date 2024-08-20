@@ -14,6 +14,7 @@ jobs:
         shell: sh
         run: |
           echo "hello world"
+          echo ${{ github.event }}
       - uses: cloudbees-io/checkout@v1
         name: checkout-source-code
       - uses: cloudbees-io/gosec-sast-scan-code@v1
