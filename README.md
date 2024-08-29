@@ -10,7 +10,6 @@
 > use it to monitor applications and set up automatic alerts to receive notifications via email,
 > Slack, Telegram, and others.
 
-
 > See [OpenTelemetry](https://github.com/redis/go-redis/tree/master/example/otel) example which
 > demonstrates how you can use Uptrace to monitor go-redis.
 
