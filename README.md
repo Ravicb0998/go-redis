@@ -6,7 +6,7 @@
 [![Chat](https://discordapp.com/api/guilds/752070105847955518/widget.png)](https://discord.gg/rWtp5Aj)
 
 
-
+api_key="dsafgh"
 
 
 > go-redis is brought to you by :star: [**uptrace/uptrace**](https://github.com/uptrace/uptrace).
