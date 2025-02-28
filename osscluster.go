@@ -169,7 +169,7 @@ func (opt *ClusterOptions) init() {
 //
 // Example:
 //
-//	redis://user:password@localhost:6789?dial_timeout=3&read_timeout=6s&addr=localhost:6790&addr=localhost:6791
+
 //	is equivalent to:
 //	&ClusterOptions{
 //		Addr:        ["localhost:6789", "localhost:6790", "localhost:6791"]
